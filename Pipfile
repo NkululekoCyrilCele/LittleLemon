@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 django = "*"
+autopep8 = "*"
+mysqlclient = "*"
+djangorestframework = "*"
+djangorestframework-csv = "*"
+djangorestframework-yaml = "*"
+djangorestframework-xml = "*"
+djoser = "*"
 
 [dev-packages]
 
