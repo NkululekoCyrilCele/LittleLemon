@@ -5,8 +5,8 @@ from restaurant.models import MenuItem
 class MenuItemTest(TestCase):
     def test_get_item(self):
         item = MenuItem.objects.create(
-            title='Apples',
-            price=50.00,
-            inventory=1
+            title="Tanjia",
+            price=15.99,
+            inventory=4
         )
-        self.assertEqual(item, 'Apples : 50')
+        self.assertEqual(item.__str__(), "Tanjia : 15.99")
