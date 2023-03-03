@@ -12,6 +12,7 @@ djangorestframework-csv = "*"
 djangorestframework-yaml = "*"
 djangorestframework-xml = "*"
 djoser = "*"
+pylint-django = "*"
 
 [dev-packages]
 

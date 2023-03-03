@@ -1,4 +1,4 @@
-/admin/ (Username: me Password: Pwd4lfnkce4400#)
+/admin/ (Username: me Password: django1234)
 /restaurant/
 /restaurant/menu/
 /restaurant/menu/1
