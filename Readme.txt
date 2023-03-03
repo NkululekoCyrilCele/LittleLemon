@@ -6,7 +6,6 @@
 /restaurant/menu/3
 /restaurant/booking/
 /restaurant/booking/tables
-/auth/
 /auth/users
 /auth/token/login
 /auth/token/logout
