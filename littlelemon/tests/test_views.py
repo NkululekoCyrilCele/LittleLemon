@@ -1,7 +1,5 @@
-from django.contrib.auth.models import User
-from restaurant.serializers import BookingSerializer, MenuItemSerializer
-from restaurant.models import Booking, MenuItem
-from rest_framework.authtoken.models import Token
+from restaurant.serializers import MenuItemSerializer
+from restaurant.models import MenuItem
 from django.urls import reverse
 from rest_framework import status
 from rest_framework.test import APITestCase
